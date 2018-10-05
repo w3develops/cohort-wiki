@@ -6,7 +6,7 @@ various situations they may encounter during the course of the Cohort.
 
 The wiki can be accessed via this repos tab bar:
 
-![GitHub Wiki Tab](https://github.com/w3develops/cohort-wiki/blob/development/images/GitHub%20repo%20tabs.png)
+![GitHub Wiki Tab](https://github.com/chingu-cohorts/voyage-wiki/blob/development/images/GitHub%20repo%20tabs.png)
 
 ## Announcements :exclamation:
 
