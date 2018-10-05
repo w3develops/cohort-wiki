@@ -10,5 +10,5 @@ The wiki can be accessed via this repos tab bar:
 
 ## Announcements :exclamation:
 
-- Cohort invitations will be emailed between the 2nd and 3rd of your first month(depending on your timezone)! 
+- Cohort invitations will be emailed between the 1st and 3rd of your first month(depending on your timezone)! 
 - Cohort teams are launched on the 5th of every month.
